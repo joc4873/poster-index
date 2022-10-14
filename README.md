@@ -237,6 +237,7 @@
 - [Stranger Things](https://theposterdb.com/set/160435) -- [alt set](https://theposterdb.com/set/160434)
 - [Stumptown](https://theposterdb.com/set/160188)
 - [Succession](https://theposterdb.com/set/163550)
+- [Suits](https://theposterdb.com/set/163985) -- [alt cover](https://theposterdb.com/poster/275487) -- [alt cover v2](https://theposterdb.com/poster/275488)
 - [Superstore](https://theposterdb.com/set/159161)
 - [Swimming with Sharks](https://theposterdb.com/set/161304)
 - [Ted Lasso](https://theposterdb.com/set/143892)
