@@ -301,7 +301,6 @@
 - [The Last Man on Earth](https://theposterdb.com/set/160898)
 - [The Last Ship](https://theposterdb.com/set/87784)
 - [The Last of Us](https://theposterdb.com/set/174405)
-- [The Last of Us](https://theposterdb.com/set/174405)
 - [The Leftovers](https://theposterdb.com/set/110391)
 - [The Lord of the Rings: The Rings of Power](https://theposterdb.com/set/156448) -- [white logo](https://theposterdb.com/set/156442) -- [alt set](https://theposterdb.com/set/161849) -- [alt set white logo](https://theposterdb.com/set/161850)
 - [The Man in the High Castle](https://theposterdb.com/set/149126)
