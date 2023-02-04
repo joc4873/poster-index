@@ -5,7 +5,7 @@
 - [Harry Potter Collection](https://theposterdb.com/set/131416)
 - [In Association With Marvel](https://theposterdb.com/set/121212) -- [no logo](https://theposterdb.com/set/121213) -- [alt posters](https://theposterdb.com/set/121214) -- [alt posters no logo](https://theposterdb.com/set/121215)
 - [Jumanji Collection](https://theposterdb.com/set/120670)
-- [Marvel Cinematic Universe](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593) -- [alt posters](https://theposterdb.com/set/121040) -- [alt posters no logo](https://theposterdb.com/set/121041)
+- [Marvel Cinematic Universe](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593) -- [alt posters](https://theposterdb.com/set/121040) -- [alt posters no logo](https://theposterdb.com/set/121041) -- [IMAX Enhanced](https://theposterdb.com/set/186218)
 - [Marvel One-Shots](https://theposterdb.com/set/121334) -- [no logo](https://theposterdb.com/set/121335)
 - [Marvel Television](https://theposterdb.com/set/120000) -- [no logo](https://theposterdb.com/set/120594) -- [alt posters](https://theposterdb.com/set/121190) -- [alt posters no logo](https://theposterdb.com/set/121191)
 - [Middle Earth Collection](https://theposterdb.com/set/156450) -- [white logo](https://theposterdb.com/set/156445) -- [alt covers](https://theposterdb.com/set/159329) -- [alt covers 2](https://theposterdb.com/set/159330)
