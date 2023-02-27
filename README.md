@@ -203,6 +203,7 @@
 - [Peacemaker](https://theposterdb.com/set/124062)
 - [Peaky Blinders](https://theposterdb.com/set/160200) -- [alt cover](https://theposterdb.com/poster/268933)
 - [Penguin Town](https://theposterdb.com/set/110389)
+- [Penny Dreadful](https://theposterdb.com/set/190887) -- [alt set](https://theposterdb.com/set/190886)
 - [Pennyworth](https://theposterdb.com/set/164990)
 - [Perry Mason](https://theposterdb.com/set/161076)
 - [Person of Interest](https://theposterdb.com/set/161093) -- [alt cover](https://theposterdb.com/poster/270595)
