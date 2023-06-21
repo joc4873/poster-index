@@ -246,7 +246,7 @@
 - [Scenes from a Marriage](https://theposterdb.com/set/160192)
 - [Schitt's Creek](https://theposterdb.com/set/160198)
 - [Search Party](https://theposterdb.com/set/164621) -- [alt cover](https://theposterdb.com/poster/276488) -- [alt cover v2](https://theposterdb.com/poster/276489)
-- [Secret Invasion](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593)
+- [Secret Invasion](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593) -- [alt set](https://theposterdb.com/set/121040) -- [alt set no logo](https://theposterdb.com/set/121041)
 - [See](https://theposterdb.com/set/161303) -- [alt cover](https://theposterdb.com/poster/270947)
 - [Selena + Chef](https://theposterdb.com/set/159691)
 - [Selfie](https://theposterdb.com/set/164964)
