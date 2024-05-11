@@ -146,7 +146,7 @@
 - [House of Cards](https://theposterdb.com/set/159932) -- [alt cover](https://theposterdb.com/poster/268514)
 - [House of the Dragon](https://theposterdb.com/set/160613) -- [white logo](https://theposterdb.com/set/160606) -- [alt cover](https://theposterdb.com/poster/269689) -- [alt cover white logo](https://theposterdb.com/poster/269668)
 - [House](https://theposterdb.com/set/159928) -- [alt cover](https://theposterdb.com/poster/268488) -- [alt cover v2](https://theposterdb.com/poster/268489)
-- [How I Met Your Mother](https://theposterdb.com/poster/270964) -- [alt cover](https://theposterdb.com/poster/270962)
+- [How I Met Your Mother](https://theposterdb.com/set/161313) -- [alt cover](https://theposterdb.com/poster/270962)
 - [I Am Groot](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593)
 - [Invasion](https://theposterdb.com/set/158706)
 - [James May: Our Man In…](https://theposterdb.com/set/161672) -- [alt seasons](https://theposterdb.com/set/161745)
