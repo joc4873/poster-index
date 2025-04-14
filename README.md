@@ -1,4 +1,5 @@
 ### Collections
+
 - [Avatar Collection](https://theposterdb.com/set/159479) -- [white logo](https://theposterdb.com/set/159480) -- [alt cover](https://theposterdb.com/poster/267717)
 - [Disney Live-Action Remakes](https://theposterdb.com/set/120585) -- [alt posters](https://theposterdb.com/set/120592)
 - [Dune Collection](https://theposterdb.com/set/259309) -- [alt set](https://theposterdb.com/set/259308)
@@ -20,10 +21,11 @@
 - [World of Ice and Fire](https://theposterdb.com/set/160613) -- [white logo](https://theposterdb.com/set/160606) -- [alt cover](https://theposterdb.com/poster/269693) -- [alt cover white logo](https://theposterdb.com/poster/269678) -- [alt cover v2](https://theposterdb.com/poster/269692) -- [alt cover v2 white logo](https://theposterdb.com/poster/269677)
 
 ### Shows
+
 - [2 Broke Girls](https://theposterdb.com/set/159168)
 - [3 Body Problem](https://theposterdb.com/set/255725)
 - [9-1-1: Lone Star](https://theposterdb.com/set/142390)
-- [9-1-1](https://theposterdb.com/set/142389)
+- [9-1-1](https://theposterdb.com/set/142389) -- [alt cover](https://theposterdb.com/poster/594168)
 - [11.22.63](https://theposterdb.com/set/152427)
 - [24](https://theposterdb.com/set/161847) -- [alt cover](https://theposterdb.com/poster/271938)
 - [30 Rock](https://theposterdb.com/set/83339)
@@ -160,6 +162,7 @@
 - [Lessons in Chemistry](https://theposterdb.com/set/251260)
 - [Limitless](https://theposterdb.com/set/161664) -- [alt season](https://theposterdb.com/poster/271600)
 - [Line of Duty](https://theposterdb.com/set/120598)
+- [Lioness](https://theposterdb.com/set/224973) -- [alt season 2](https://theposterdb.com/poster/594064)
 - [Little Fires Everywhere](https://theposterdb.com/set/162227)
 - [Living with Yourself](https://theposterdb.com/set/162224) -- [alt season 1](https://theposterdb.com/poster/272655)
 - [Loki](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593)
@@ -229,6 +232,7 @@
 - [Outer Range](https://theposterdb.com/set/140548)
 - [Outlander](https://theposterdb.com/set/255727)
 - [Ozark](https://theposterdb.com/set/124178)
+- [Paradise](https://theposterdb.com/set/330393)
 - [Parks and Recreation](https://theposterdb.com/set/159929)
 - [Patriot](https://theposterdb.com/set/144567)
 - [Peacemaker](https://theposterdb.com/set/124062)
@@ -277,7 +281,7 @@
 - [Selfie](https://theposterdb.com/set/164964)
 - [Sense8](https://theposterdb.com/set/161079) -- [alt cover](https://theposterdb.com/poster/270550) -- [alt cover v2](https://theposterdb.com/poster/270549)
 - [Seven Worlds, One Planet](https://theposterdb.com/set/142577) -- [alt cover](https://theposterdb.com/set/142576)
-- [Severance](https://theposterdb.com/set/139182)
+- [Severance](https://theposterdb.com/set/139182) -- [alt cover](https://theposterdb.com/poster/593549)
 - [Sex/Life](https://theposterdb.com/set/198431)
 - [Shadow and Bone](https://theposterdb.com/set/157698)
 - [Shadowhunters](https://theposterdb.com/set/198579) -- [alt set](https://theposterdb.com/set/198580)
@@ -296,7 +300,6 @@
 - [Sorry For Your Loss](https://theposterdb.com/set/160634) -- [alt cover](https://theposterdb.com/poster/269723)
 - [Space Force](https://theposterdb.com/set/160798) -- [alt seasons](https://theposterdb.com/set/160797)
 - [Spartacus](https://theposterdb.com/set/160431)
-- [Special Ops: Lioness](https://theposterdb.com/set/224973)
 - [Squid Game](https://theposterdb.com/set/109692)
 - [Star Trek: Strange New Worlds](https://theposterdb.com/set/135788)
 - [Star Wars Rebels](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574)
@@ -376,6 +379,7 @@
 - [The Pacific](https://theposterdb.com/set/256784) -- [alt set](https://theposterdb.com/set/256783)
 - [The Pact](https://theposterdb.com/set/120234)
 - [The Pembrokeshire Murders](https://theposterdb.com/set/164969)
+- [The Penguin](https://theposterdb.com/set/330392)
 - [The Peripheral](https://theposterdb.com/set/162218) -- [alt set](https://theposterdb.com/set/162219)
 - [The Queen's Gambit](https://theposterdb.com/set/159720) -- [alt set](https://theposterdb.com/set/159721)
 - [The Resort](https://theposterdb.com/set/159688) -- [white logo](https://theposterdb.com/set/159689) -- [alt set](https://theposterdb.com/set/159714) -- [alt set white logo](https://theposterdb.com/set/159715)
@@ -438,6 +442,7 @@
 - [ZeroZeroZero](https://theposterdb.com/set/159712)
 
 ### Movies
+
 - [2 Guns](https://theposterdb.com/poster/254761)
 - [6 Days](https://theposterdb.com/poster/182518)
 - [9 Bullets](https://theposterdb.com/poster/223977)
