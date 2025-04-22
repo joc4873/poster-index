@@ -1,5 +1,4 @@
 ### Collections
-
 - [Avatar Collection](https://theposterdb.com/set/159479) -- [white logo](https://theposterdb.com/set/159480) -- [alt cover](https://theposterdb.com/poster/267717)
 - [Disney Live-Action Remakes](https://theposterdb.com/set/120585) -- [alt posters](https://theposterdb.com/set/120592)
 - [Dune Collection](https://theposterdb.com/set/259309) -- [alt set](https://theposterdb.com/set/259308)
@@ -21,7 +20,6 @@
 - [World of Ice and Fire](https://theposterdb.com/set/160613) -- [white logo](https://theposterdb.com/set/160606) -- [alt cover](https://theposterdb.com/poster/269693) -- [alt cover white logo](https://theposterdb.com/poster/269678) -- [alt cover v2](https://theposterdb.com/poster/269692) -- [alt cover v2 white logo](https://theposterdb.com/poster/269677)
 
 ### Shows
-
 - [2 Broke Girls](https://theposterdb.com/set/159168)
 - [3 Body Problem](https://theposterdb.com/set/255725)
 - [9-1-1: Lone Star](https://theposterdb.com/set/142390)
@@ -93,6 +91,7 @@
 - [Cyberpunk: Edgerunners](https://theposterdb.com/set/170719)
 - [Dahmer – Monster: The Jeffrey Dahmer Story](https://theposterdb.com/set/164989)
 - [Dalgliesh](https://theposterdb.com/set/160628)
+- [Daredevil: Born Again](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593)
 - [Dark Matter](https://theposterdb.com/set/270812) -- [alt set](https://theposterdb.com/set/270813)
 - [Dark](https://theposterdb.com/set/161676)
 - [Dead to Me](https://theposterdb.com/set/251259)
@@ -304,7 +303,7 @@
 - [Squid Game](https://theposterdb.com/set/109692)
 - [Star Trek: Strange New Worlds](https://theposterdb.com/set/135788)
 - [Star Wars Rebels](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574)
-- [Star Wars: Andor](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574) -- [alt cover](https://theposterdb.com/poster/475831) -- [alt cover no logo](https://theposterdb.com/poster/475830)
+- [Star Wars: Andor](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574) -- [alt set](https://theposterdb.com/poster/475831) -- [alt set no logo](https://theposterdb.com/poster/475830)
 - [Star Wars: Tales of the Jedi](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574)
 - [Star Wars: The Bad Batch](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574) -- [alt cover](https://theposterdb.com/poster/475835) -- [alt cover no logo](https://theposterdb.com/poster/475833) -- [alt cover v2](https://theposterdb.com/poster/475834) -- [alt cover v2 no logo](https://theposterdb.com/poster/475832)
 - [Star Wars: The Clone Wars](https://theposterdb.com/set/129255) -- [no logo](https://theposterdb.com/set/261574)
@@ -382,8 +381,10 @@
 - [The Pembrokeshire Murders](https://theposterdb.com/set/164969)
 - [The Penguin](https://theposterdb.com/set/330392)
 - [The Peripheral](https://theposterdb.com/set/162218) -- [alt set](https://theposterdb.com/set/162219)
+- [The Pitt](https://theposterdb.com/set/331152)
 - [The Queen's Gambit](https://theposterdb.com/set/159720) -- [alt set](https://theposterdb.com/set/159721)
 - [The Resort](https://theposterdb.com/set/159688) -- [white logo](https://theposterdb.com/set/159689) -- [alt set](https://theposterdb.com/set/159714) -- [alt set white logo](https://theposterdb.com/set/159715)
+- [The Righteous Gemstones](https://theposterdb.com/set/331881) -- [alt set](https://theposterdb.com/set/331882)
 - [The Rookie](https://theposterdb.com/set/108517)
 - [The Sandman](https://theposterdb.com/set/153458) -- [alt set](https://theposterdb.com/set/159713)
 - [The Serpent](https://theposterdb.com/set/144672)
@@ -443,7 +444,6 @@
 - [ZeroZeroZero](https://theposterdb.com/set/159712)
 
 ### Movies
-
 - [2 Guns](https://theposterdb.com/poster/254761)
 - [6 Days](https://theposterdb.com/poster/182518)
 - [9 Bullets](https://theposterdb.com/poster/223977)
