@@ -1,4 +1,5 @@
 ### Collections
+
 - [Avatar Collection](https://theposterdb.com/set/159479) -- [white logo](https://theposterdb.com/set/159480) -- [alt cover](https://theposterdb.com/poster/267717)
 - [Disney Live-Action Remakes](https://theposterdb.com/set/120585) -- [alt posters](https://theposterdb.com/set/120592)
 - [Dune Collection](https://theposterdb.com/set/259309) -- [alt set](https://theposterdb.com/set/259308)
@@ -20,6 +21,7 @@
 - [World of Ice and Fire](https://theposterdb.com/set/160613) -- [white logo](https://theposterdb.com/set/160606) -- [alt cover](https://theposterdb.com/poster/269693) -- [alt cover white logo](https://theposterdb.com/poster/269678) -- [alt cover v2](https://theposterdb.com/poster/269692) -- [alt cover v2 white logo](https://theposterdb.com/poster/269677)
 
 ### Shows
+
 - [2 Broke Girls](https://theposterdb.com/set/159168)
 - [3 Body Problem](https://theposterdb.com/set/255725)
 - [9-1-1: Lone Star](https://theposterdb.com/set/142390)
@@ -259,6 +261,7 @@
 - [Q: Into the Storm](https://theposterdb.com/set/159906)
 - [Quantico](https://theposterdb.com/set/160897) -- [alt posters](https://theposterdb.com/set/160896)
 - [Queen of the South](https://theposterdb.com/set/161841) -- [alt cover](https://theposterdb.com/poster/271921)
+- [RIPLEY](https://theposterdb.com/set/332976)
 - [Rabbit Hole](https://theposterdb.com/set/198584)
 - [Raised by Wolves](https://theposterdb.com/set/124203)
 - [Reacher](https://theposterdb.com/set/128068)
@@ -291,6 +294,7 @@
 - [Sherlock](https://theposterdb.com/set/160430) -- [alt cover + alt specials](https://theposterdb.com/set/188190)
 - [Shooter](https://theposterdb.com/set/142950)
 - [Shōgun](https://theposterdb.com/set/255730)
+- [Shrinking](https://theposterdb.com/set/332872)
 - [Signs](https://theposterdb.com/set/88001)
 - [Silicon Valley](https://theposterdb.com/set/143535)
 - [Silo](https://theposterdb.com/set/206614)
@@ -336,6 +340,7 @@
 - [The Boys](https://theposterdb.com/set/141728) -- [alt s4](https://theposterdb.com/poster/464599)
 - [The Crown](https://theposterdb.com/set/142627)
 - [The Curse](https://theposterdb.com/set/255723)
+- [The Day of the Jackal](https://theposterdb.com/set/332977)
 - [The Defence](https://theposterdb.com/set/88003)
 - [The Diplomat](https://theposterdb.com/set/209073)
 - [The Dropout](https://theposterdb.com/set/149128)
@@ -392,6 +397,7 @@
 - [The Society](https://theposterdb.com/set/144809)
 - [The Staircase](https://theposterdb.com/set/160428)
 - [The Stand](https://theposterdb.com/set/144115)
+- [The Studio](https://theposterdb.com/set/332978)
 - [The Terminal List](https://theposterdb.com/set/149839)
 - [The Time Traveler's Wife](https://theposterdb.com/set/141569)
 - [The Undoing](https://theposterdb.com/set/160427)
@@ -402,6 +408,7 @@
 - [The Witcher](https://theposterdb.com/set/141097)
 - [The Woman in the House Across the Street from the Girl in the Window](https://theposterdb.com/set/144673)
 - [The Woods](https://theposterdb.com/set/95596)
+- [Those About to Die](https://theposterdb.com/set/332975)
 - [Timeless](https://theposterdb.com/set/160901)
 - [Tin Star](https://theposterdb.com/set/160793)
 - [Tiny World](https://theposterdb.com/set/149153)
@@ -444,6 +451,7 @@
 - [ZeroZeroZero](https://theposterdb.com/set/159712)
 
 ### Movies
+
 - [2 Guns](https://theposterdb.com/poster/254761)
 - [6 Days](https://theposterdb.com/poster/182518)
 - [9 Bullets](https://theposterdb.com/poster/223977)
