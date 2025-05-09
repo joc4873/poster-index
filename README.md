@@ -34,6 +34,7 @@
 - [1899](https://theposterdb.com/set/170645)
 - [1923](https://theposterdb.com/set/257009)
 - [A Discovery of Witches](https://theposterdb.com/set/81770)
+- [A Gentleman in Moscow](https://theposterdb.com/set/335676)
 - [A Perfect Planet](https://theposterdb.com/set/142577) -- [alt cover](https://theposterdb.com/set/142576)
 - [A Teacher](https://theposterdb.com/set/142387)
 - [A Very British Scandal](https://theposterdb.com/set/161657)
@@ -207,6 +208,7 @@
 - [Marvel's The Defenders](https://theposterdb.com/set/120000) -- [no logo](https://theposterdb.com/set/120594)
 - [Marvel's The Punisher](https://theposterdb.com/set/120000) -- [no logo](https://theposterdb.com/set/120594) -- [alt](https://theposterdb.com/set/121190) -- [alt no logo](https://theposterdb.com/set/121191)
 - [Masters of the Air](https://theposterdb.com/set/256785)
+- [Mayfair Witches](https://theposterdb.com/set/335678)
 - [Mayor of Kingstown](https://theposterdb.com/set/142442)
 - [Mindhunter](https://theposterdb.com/set/144122)
 - [Modern Family](https://theposterdb.com/set/159162) -- [alt cover](https://theposterdb.com/set/159163) -- [alt cover 2](https://theposterdb.com/poster/267032)
@@ -456,6 +458,7 @@
 - [Young Rock](https://theposterdb.com/set/132833)
 - [Young Sheldon](https://theposterdb.com/set/142346)
 - [Your Honor](https://theposterdb.com/set/160197)
+- [Zero Day](https://theposterdb.com/set/335674) -- [alt set](https://theposterdb.com/set/335675)
 - [ZeroZeroZero](https://theposterdb.com/set/159712)
 
 ### Movies
