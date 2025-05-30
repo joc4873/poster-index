@@ -96,6 +96,7 @@
 - [Corporate](https://theposterdb.com/set/159331)
 - [Counterpart](https://theposterdb.com/set/138550)
 - [Covert Affairs](https://theposterdb.com/set/160627)
+- [Cross](https://theposterdb.com/set/340182)
 - [Cyberpunk: Edgerunners](https://theposterdb.com/set/170719)
 - [Dahmer – Monster: The Jeffrey Dahmer Story](https://theposterdb.com/set/164989)
 - [Dalgliesh](https://theposterdb.com/set/160628)
