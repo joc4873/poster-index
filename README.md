@@ -126,6 +126,7 @@
 - [Epic Yellowstone](https://theposterdb.com/set/160412) -- [alt season 1](https://theposterdb.com/poster/269355)
 - [Euphoria](https://theposterdb.com/set/162231) -- [alt season 1](https://theposterdb.com/poster/272668)
 - [Eye Candy](https://theposterdb.com/set/164965) -- [alt set](https://theposterdb.com/set/164966)
+- [Eyes of Wakanda](https://theposterdb.com/set/355533) -- [no logo](https://theposterdb.com/set/355534)
 - [FROM](https://theposterdb.com/set/336406)
 - [FUBAR](https://theposterdb.com/set/207808) -- [alt season 1](https://theposterdb.com/poster/365906)
 - [Fairly Legal](https://theposterdb.com/set/80625)
