@@ -35,6 +35,7 @@
 - [1923](https://theposterdb.com/set/257009)
 - [A Discovery of Witches](https://theposterdb.com/set/81770)
 - [A Gentleman in Moscow](https://theposterdb.com/set/335676)
+- [A Knight of the Seven Kingdoms](https://theposterdb.com/set/383359) -- [white logo](https://theposterdb.com/set/383360)
 - [A Perfect Planet](https://theposterdb.com/set/142577) -- [alt cover](https://theposterdb.com/set/142576)
 - [A Teacher](https://theposterdb.com/set/142387)
 - [A Very British Scandal](https://theposterdb.com/set/161657)
