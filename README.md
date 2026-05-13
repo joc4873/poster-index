@@ -422,6 +422,7 @@
 - [The Orville](https://theposterdb.com/set/159724) -- [alt set](https://theposterdb.com/set/159723) -- [alt cover](https://theposterdb.com/poster/268144)
 - [The Pacific](https://theposterdb.com/set/256784) -- [alt set](https://theposterdb.com/set/256783)
 - [The Pact](https://theposterdb.com/set/120234)
+- [The Paper](https://theposterdb.com/set/400308)
 - [The Pembrokeshire Murders](https://theposterdb.com/set/164969)
 - [The Penguin](https://theposterdb.com/set/330392)
 - [The Peripheral](https://theposterdb.com/set/162218) -- [alt set](https://theposterdb.com/set/162219)
