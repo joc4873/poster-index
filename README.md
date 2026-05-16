@@ -195,6 +195,7 @@
 - [Living with Yourself](https://theposterdb.com/set/162224) -- [alt season 1](https://theposterdb.com/poster/272655)
 - [Loki](https://theposterdb.com/set/119998) -- [no logo](https://theposterdb.com/set/120593)
 - [Long Bright River](https://theposterdb.com/set/366060)
+- [Looking for Alaska](https://theposterdb.com/set/400714)
 - [Lost in Space](https://theposterdb.com/set/142349) -- [alt set](https://theposterdb.com/set/142348)
 - [Lost](https://theposterdb.com/set/159930)
 - [Love & Death](https://theposterdb.com/set/208394)
