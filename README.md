@@ -362,6 +362,7 @@
 - [Superman & Lois](https://theposterdb.com/set/206613) -- [alt cover](https://theposterdb.com/poster/362435)
 - [Superstore](https://theposterdb.com/set/159161)
 - [Swimming with Sharks](https://theposterdb.com/set/161304)
+- [Task](https://theposterdb.com/set/404679)
 - [Ted Lasso](https://theposterdb.com/set/143892) -- [alt cover](https://theposterdb.com/poster/362442)
 - [Ted](https://theposterdb.com/set/251253)
 - [The 100](https://theposterdb.com/set/141410)
